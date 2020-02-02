@@ -7,7 +7,7 @@
 * create virtual environment
 * ```console
     $ pip install opencv-python
- ```
+    ```
 
 2. Run OpenCV to access camera.
 
